@@ -1,6 +1,7 @@
 #shortcuts
 ---
 
+
 ---
 Object Mode
 ```java
@@ -25,4 +26,6 @@ Tab: switch mode(object<->edit)
 3: face select
 
 ctrl+R: loop cut
+
+Z: views UI
 ```
