@@ -25,7 +25,7 @@ Tab: switch mode(object<->edit)
 2: edge select
 3: face select
 
-ctrl+R: loop cut
+ctrl+R: LOOP CUT
 
 Z: views UI
 ```
