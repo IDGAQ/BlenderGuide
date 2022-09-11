@@ -29,3 +29,10 @@ ctrl+R: LOOP CUT
 
 Z: views UI
 ```
+
+Mirror Modifier:
+```
+1.find the wrench icon
+2. add modifier(mirror)
+
+```
