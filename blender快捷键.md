@@ -1,5 +1,8 @@
 #shortcuts
 ---
+
+---
+### add, move, rotate, scale, duplicate
 ```java
 S: scale
 R: rotate
