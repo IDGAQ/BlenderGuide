@@ -2,7 +2,7 @@
 ---
 
 ---
-### add, move, rotate, scale, duplicate
+Object Mode
 ```java
 S: scale
 R: rotate
@@ -15,4 +15,9 @@ Shift+D: duplicate
 
 Shift+F: fly
 (+Q/E: fly up or down)
+```
+
+Edit Mode
+```java
+Tab: switch mode(object<->edit)
 ```
