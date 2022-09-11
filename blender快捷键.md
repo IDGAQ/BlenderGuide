@@ -20,4 +20,7 @@ Shift+F: fly
 Edit Mode
 ```java
 Tab: switch mode(object<->edit)
+1: vertex select
+2: edge select
+3: face select
 ```
