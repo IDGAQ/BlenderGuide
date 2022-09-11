@@ -4,7 +4,7 @@
 
 ---
 Object Mode
-```java
+```
 S: scale
 R: rotate
 G: grab/move
@@ -19,7 +19,7 @@ Shift+F: fly
 ```
 
 Edit Mode
-```java
+```
 Tab: switch mode(object<->edit)
 1: vertex select
 2: edge select
