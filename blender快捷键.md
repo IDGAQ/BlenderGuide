@@ -7,7 +7,7 @@ Object Mode
 ```java
 S: scale
 R: rotate
-G: move
+G: grab/move
 (S/R/G->X/Y/Z: move horizontally or vertically)
 
 Shift+A: add
