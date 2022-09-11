@@ -1,0 +1,1 @@
+__shortcuts__
