@@ -1,6 +1,6 @@
 #shortcuts
 ---
-```java
+``java
 S: scale
 R: rotate
 G: move
@@ -8,4 +8,4 @@ G: move
 
 Shift+A: add
 Shift+D: duplicate
-```
+``
