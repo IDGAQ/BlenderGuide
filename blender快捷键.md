@@ -24,13 +24,15 @@ Edit Mode
 ```
 Tab: switch mode(object<->edit)
 1: vertex select
-2: edge select
+2: edge selectFF
 3: face select
 
 ctrl+R: LOOP CUT
 
 Z: views UI
 ctrl+L: link UI
+
+alt + left click: loop select
 ```
 
 Mirror Modifier:
