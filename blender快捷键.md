@@ -33,6 +33,7 @@ Z: views UI
 ctrl+L: link UI
 
 alt + left click: loop select
+alt + E: extrusion
 ```
 
 Mirror Modifier:
