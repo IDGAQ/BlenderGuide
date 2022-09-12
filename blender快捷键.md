@@ -33,7 +33,9 @@ Z: views UI
 ctrl+L: link UI
 
 alt + left click: loop select
-alt + E: extrude
+
+//分手指，分脚趾
+alt + E: extrude 
 ```
 
 Mirror Modifier:
