@@ -10,6 +10,8 @@ R: rotate
 G: grab/move
 (S/R/G->X/Y/Z: move horizontally or vertically)
 
+N: toggle sidebar(transform, tool, view)
+
 Shift+A: add
 
 Shift+D: duplicate
