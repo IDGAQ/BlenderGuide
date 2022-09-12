@@ -24,7 +24,7 @@ Edit Mode
 ```
 Tab: switch mode(object<->edit)
 1: vertex select
-2: edge selectFF
+2: edge select
 3: face select
 
 ctrl+R: LOOP CUT
