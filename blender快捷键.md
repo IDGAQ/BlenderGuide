@@ -40,6 +40,9 @@ alt + left click: loop select
 //分手指，分脚趾
 alt + E: extrude 
 
+E: extrude
+
+ctrl + E: edge OPTIONS
 
 
 i: insert face
