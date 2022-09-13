@@ -36,6 +36,11 @@ alt + left click: loop select
 
 //分手指，分脚趾
 alt + E: extrude 
+
+// make current transformation 0 instead of initial global rotation
+ctrl+A: apply
+
+i: insert face
 ```
 
 Mirror Modifier:
