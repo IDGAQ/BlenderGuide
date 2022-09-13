@@ -50,6 +50,8 @@ i: insert face
 // Face select
 ctrl + num+ :select more
 ctrl + num- : select less
+
+f: fill
 ```
 
 Mirror Modifier:
