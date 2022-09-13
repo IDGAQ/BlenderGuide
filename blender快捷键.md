@@ -9,6 +9,7 @@ S: scale
 R: rotate
 G: grab/move
 (S/R/G->X/Y/Z: move horizontally or vertically)
+(shift+X/Y/Z: scale in other two directions)
 
 N: toggle sidebar(transform, tool, view)
 
