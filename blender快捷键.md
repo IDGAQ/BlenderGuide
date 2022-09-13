@@ -18,6 +18,9 @@ Shift+D: duplicate
 
 Shift+F: fly
 (+Q/E: fly up or down)
+
+// make current transformation 0 instead of initial global rotation
+ctrl+A: apply
 ```
 
 Edit Mode
@@ -37,8 +40,7 @@ alt + left click: loop select
 //分手指，分脚趾
 alt + E: extrude 
 
-// make current transformation 0 instead of initial global rotation
-ctrl+A: apply
+
 
 i: insert face
 ```
