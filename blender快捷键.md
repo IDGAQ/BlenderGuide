@@ -20,6 +20,8 @@ Shift+D: duplicate
 Shift+F: fly
 (+Q/E: fly up or down)
 
+shift+tab: make grab snapped
+
 // make current transformation 0 instead of initial global rotation
 ctrl+A: apply
 ```
@@ -52,6 +54,7 @@ ctrl + num+ :select more
 ctrl + num- : select less
 
 f: fill
+
 ```
 
 Mirror Modifier:
