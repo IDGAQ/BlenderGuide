@@ -20,7 +20,7 @@ Shift+D: duplicate
 Shift+F: fly
 (+Q/E: fly up or down)
 
-shift+tab: make grab snapped
+shift+tab: make grab snapped, move more pixels at a time
 
 // make current transformation 0 instead of initial global rotation
 ctrl+A: apply
