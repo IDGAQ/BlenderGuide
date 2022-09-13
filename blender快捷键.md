@@ -24,6 +24,9 @@ shift+tab: make grab snapped, move more pixels at a time
 
 // make current transformation 0 instead of initial global rotation
 ctrl+A: apply
+
+// set origin
+Object-> Set Origin
 ```
 
 Edit Mode
