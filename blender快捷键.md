@@ -48,7 +48,8 @@ ctrl + E: edge OPTIONS
 i: insert face
 
 // Face select
-select-> select more/less
+ctrl + num+ :select more
+ctrl + num- : select less
 ```
 
 Mirror Modifier:
