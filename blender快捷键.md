@@ -23,7 +23,7 @@ Shift+F: fly
 shift+tab: make grab snapped, move more pixels at a time
 
 // make current transformation 0 instead of initial global rotation
-ctrl+A: apply
+ctrl+A: applyF
 
 // set origin
 Object-> Set Origin
@@ -44,7 +44,7 @@ ctrl+L: link UI
 alt + left click: loop select
 
 //分手指，分脚趾
-alt + E: extrude 
+alt + E: extrude (face)
 
 E: extrude
 
