@@ -57,6 +57,8 @@ ctrl + num+ :select more
 ctrl + num- : select less
 
 f: fill
+// 添加斜面
+ctrl+b: bevel
 
 ```
 
