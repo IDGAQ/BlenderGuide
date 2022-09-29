@@ -60,6 +60,8 @@ f: fill
 // 添加斜面
 ctrl+b: bevel
 
+F3: Find all shortcut reference
+
 ```
 
 Mirror Modifier:
