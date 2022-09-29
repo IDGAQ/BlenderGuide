@@ -62,6 +62,7 @@ ctrl+b: bevel
 
 F3: Find all shortcut reference
 
+shift+ctrl+alt+s: shear
 ```
 
 Mirror Modifier:
