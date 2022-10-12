@@ -50,6 +50,8 @@ alt + E: extrude (face)
 
 E: extrude
 
+M: merge(all vertex)
+
 ctrl + E: edge OPTIONS
 
 i: insert face
