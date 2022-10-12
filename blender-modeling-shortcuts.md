@@ -60,7 +60,9 @@ i: insert face
 ctrl + num+ :select more
 ctrl + num- : select less
 
-f: fill
+f: fill/add faces
+
+
 // 添加斜面
 ctrl+b: bevel
 
