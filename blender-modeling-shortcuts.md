@@ -62,7 +62,8 @@ ctrl + num- : select less
 
 f: fill/add faces
 
-
+// select all vertices/faces/edges
+a: select all
 // 添加斜面
 ctrl+b: bevel
 
