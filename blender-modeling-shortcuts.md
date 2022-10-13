@@ -55,6 +55,7 @@ M: merge(all vertex)
 ctrl + E: edge OPTIONS
 
 i: insert face
+i -> b: insert face without boundary
 
 // Face select
 ctrl + num+ :select more
