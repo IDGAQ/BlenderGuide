@@ -64,6 +64,10 @@ i -> b: insert face without boundary
 ctrl + num+ :select more
 ctrl + num- : select less
 
+
+// edge select
+ctrl + X: remove edge
+
 f: fill/add faces
 
 // select all vertices/faces/edges
