@@ -52,6 +52,9 @@ E: extrude
 
 M: merge(all vertex)
 
+// select face + p:
+P: separate
+
 ctrl + E: edge OPTIONS
 
 i: insert face
