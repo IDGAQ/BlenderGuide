@@ -53,7 +53,7 @@ E: extrude
 M: merge(all vertex)
 
 // select face + p:
-P: separate
+P: separate to a new mesh
 
 ctrl + E: edge OPTIONS
 
