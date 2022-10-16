@@ -18,6 +18,8 @@ M: move to collection
 
 Shift+A: add
 
+Shift+Z: switch to wireframe mode
+
 Shift+D: duplicate
 
 Shift+S: cursor to selection/ selection to cursor
