@@ -52,9 +52,12 @@ E: extrude
 
 M: merge(all vertex)
 
-// select face + p:
+/// select face:
 P: separate to a new mesh
+K: cut, use knife to add new edges
 
+
+/// select vertice
 ctrl + E: edge OPTIONS
 
 i: insert face
@@ -65,7 +68,7 @@ ctrl + num+ :select more
 ctrl + num- : select less
 
 
-// edge select
+/// edge select
 ctrl + X: remove edge
 
 f: fill/add faces
