@@ -13,6 +13,9 @@ G: grab/move
 
 N: toggle sidebar(transform, tool, view)
 
+// highlight multiply objects
+M: move to collection
+
 Shift+A: add
 
 Shift+D: duplicate
