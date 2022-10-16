@@ -17,7 +17,7 @@ Shift+A: add
 
 Shift+D: duplicate
 
-Shift+S: snap cursor to...
+Shift+S: cursor to selection/ selection to cursor
 
 Shift+F: fly
 (+Q/E: fly up or down)
