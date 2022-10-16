@@ -29,7 +29,12 @@ ctrl+A: applyF
 
 // set origin
 Object-> Set Origin
+
+// goto/find/focus on selected object
+click the object -> view -> frame selected
 ```
+
+
 
 Edit Mode
 ```
