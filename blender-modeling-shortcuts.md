@@ -67,6 +67,8 @@ M: merge(all vertex)
 P: separate to a new mesh
 K: cut, use knife to add new edges
 
+// select multiple vertices(add new edges between vertices):
+J: join
 
 /// select vertice
 ctrl + E: edge OPTIONS
