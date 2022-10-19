@@ -40,6 +40,9 @@ click the object -> view -> frame selected
 
 // select multiply objects and the parent object(which u want the data from)
 ctrl+L: link data
+
+//alt means reverse in blender
+alt+G: clear transformation
 ```
 
 
