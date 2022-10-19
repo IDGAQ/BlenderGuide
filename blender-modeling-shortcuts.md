@@ -6,7 +6,11 @@
 Object Mode
 ```
 S: scale
+S + X/Y/Z + number: scale in x/y,z with this amount
+
 R: rotate
+R + X/Y/Z + number: rotate in x/y,z with this amount
+
 G: grab/move
 (S/R/G->X/Y/Z: move horizontally or vertically)
 (shift+X/Y/Z: scale in other two directions)
